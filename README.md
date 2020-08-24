@@ -1,24 +1,20 @@
-# simpleregister
+# Simple Register
 
-## Project setup
-```
-npm install
-```
+A simple cash register web application.
+Demo link available [here](https://simpleregister-dd9d9.web.app/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features
 
-### Compiles and minifies for production
-```
-npm run build
-```
+The app provide following features
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Manage inventories
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+You can manage item list and expenses.
+
+### Register orders
+
+Simply click the Cashier button, and you can register orders immediately. You can also add customers' names so that they can appears on the orders. Registered orders can also be checked to indicate that they have been delivered to customers.
+
+### Update sales/revenues
+
+All items' sales and revenues are real-time updated. You can also confirm current profits, and details sales of each individual item. 
